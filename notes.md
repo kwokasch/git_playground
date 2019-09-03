@@ -16,4 +16,4 @@
 
 5. git push origin master --> push changes in "master" to the "origin" repo
 
-- git remote -v => lists the repo's
+- git remote -v => lists the remote repositories are linked to local repositories
